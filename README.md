@@ -7,4 +7,6 @@ The best result will be if audio file( .wav ) will have 1000Hz Audio Frequency a
 
 You can test the program with added file sos.wav
 
+Also you can see the sound file plot(matplotlib)
+
 Have a problem with converting .py to .exe with auto-to-py-exe.
